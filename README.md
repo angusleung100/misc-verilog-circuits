@@ -1,5 +1,5 @@
 # Misc Logic Circuits
-These are just components for it written in Verilog. Originally made for my 8-bit to 16-bit CPU scaling project. 
+These are just logic circuits written in Verilog. Originally made for my 8-bit to 16-bit CPU scaling project. 
 
 **Note:** As of Jan 2025, I have abandoned this project in pursuit of other projects. I have made the archive public, so feel free to look around. 
 
